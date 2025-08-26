@@ -1,0 +1,16 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Build
+/build/
+*.class
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+/.idea/
+/.vscode/
